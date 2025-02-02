@@ -1,1 +1,3 @@
-/HelloWorld/*.exe
+*.exe
+Cargo.lock
+target/
